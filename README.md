@@ -7,3 +7,4 @@ This repository contains Jupyter notebooks for my seminar "Introduction to Pytho
 - [Lecture 2](https://github.com/cbrnr/intro_python/blob/master/2/2%20-%20Die%20Python-Umgebung.ipynb)
 - [Lecture 3](https://github.com/cbrnr/intro_python/blob/master/3/3%20-%20Variablen%2C%20Ausdr%C3%BCcke%2C%20Anweisungen.ipynb)
 - [Lecture 4](https://github.com/cbrnr/intro_python/blob/master/4/4%20-%20Funktionen.ipynb)
+- [Lecture 5](https://github.com/cbrnr/intro_python/blob/master/5/5%20-%20Bedingungen%2C%20Schleifen.ipynb)

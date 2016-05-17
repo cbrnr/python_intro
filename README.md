@@ -9,3 +9,4 @@ This repository contains Jupyter notebooks for my seminar "Introduction to Pytho
 - [Lecture 4 (Functions)](https://github.com/cbrnr/intro_python/blob/master/4/4%20-%20Funktionen.ipynb)
 - [Lecture 5 (Conditions and Loops)](https://github.com/cbrnr/intro_python/blob/master/5/5%20-%20Bedingungen%2C%20Schleifen.ipynb)
 - [Lecture 6 (Strings)](https://github.com/cbrnr/intro_python/blob/master/6/6%20-%20Strings.ipynb)
+- [Lecture 7 (Lists and Dictionaries)](https://github.com/cbrnr/intro_python/blob/master/7/7%20-%20Lists%20und%20Dictionaries.ipynb)

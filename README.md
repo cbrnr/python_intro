@@ -12,3 +12,4 @@ This repository contains Jupyter notebooks for my seminar "Introduction to Pytho
 - [Lecture 7 (Lists and Dictionaries)](https://github.com/cbrnr/intro_python/blob/master/7/7%20-%20Lists%20und%20Dictionaries.ipynb)
 - [Lecture 8 (Modules and Packages)](https://github.com/cbrnr/intro_python/blob/master/8/8%20-%20Module%20und%20Packages.ipynb)
 - [Lecture 9 (Input and Output)](https://github.com/cbrnr/intro_python/blob/master/9/9%20-%20Ein-%20und%20Ausgabe.ipynb)
+- [Lecture 10 (NumPy)](https://github.com/cbrnr/intro_python/blob/master/10/10%20-%20NumPy.ipynb)

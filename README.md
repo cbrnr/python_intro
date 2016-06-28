@@ -14,3 +14,4 @@ This repository contains Jupyter notebooks for my seminar "Introduction to Pytho
 - [Lecture 9 (Input and Output)](https://github.com/cbrnr/intro_python/blob/master/9/9%20-%20Ein-%20und%20Ausgabe.ipynb)
 - [Lecture 10 (NumPy)](https://github.com/cbrnr/intro_python/blob/master/10/10%20-%20NumPy.ipynb)
 - [Lecture 11 (Matplotlib and Seaborn)](https://github.com/cbrnr/intro_python/blob/master/11/11%20-%20Matplotlib%20und%20Seaborn.ipynb)
+- [Lecture 12 (Pandas)](https://github.com/cbrnr/intro_python/blob/master/12/12%20-%20Pandas.ipynb)

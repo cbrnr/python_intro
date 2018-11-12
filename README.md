@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks for my seminar "Introduction to Pytho
 - [Lecture 2 (The Python Environment)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/2/2%20-%20Die%20Python-Umgebung.ipynb?flush_cache=true)
 - [Lecture 3 (Names, Expressions, Statements)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/3/3%20-%20Namen%2C%20Ausdr%C3%BCcke%2C%20Anweisungen.ipynb?flush_cache=true)
 - [Lecture 4 (Functions)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/4/4%20-%20Funktionen.ipynb?flush_cache=true)
-- [Lecture 5 (Conditions and Loops)](https://github.com/cbrnr/intro_python/blob/master/5/5%20-%20Bedingungen%2C%20Schleifen.ipynb)
+- [Lecture 5 (Conditions and Loops)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/5/5%20-%20Bedingungen%2C%20Schleifen.ipynb?flush_cache=true)
 - [Lecture 6 (Strings)](https://github.com/cbrnr/intro_python/blob/master/6/6%20-%20Strings.ipynb)
 - [Lecture 7 (Lists)](https://github.com/cbrnr/python_intro/blob/master/7/7%20-%20Listen.ipynb)
 - [Lecture 8 (Dictionaries, Modules and Packages)](https://github.com/cbrnr/python_intro/blob/master/8/8%20-%20Dictionaries%2C%20Module%20und%20Packages.ipynb)

@@ -10,7 +10,7 @@ This repository contains Jupyter notebooks for my seminar "Introduction to Pytho
 - [Lecture 5 (Conditions and Loops)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/5/5%20-%20Bedingungen%2C%20Schleifen.ipynb?flush_cache=true)
 - [Lecture 6 (Strings)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/6/6%20-%20Strings.ipynb?flush_cache=true)
 - [Lecture 7 (Lists)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/7/7%20-%20Listen.ipynb?flush_cache=true)
-- [Lecture 8 (Dictionaries, Modules and Packages)](https://github.com/cbrnr/python_intro/blob/master/8/8%20-%20Dictionaries%2C%20Module%20und%20Packages.ipynb)
+- [Lecture 8 (Dictionaries, Modules and Packages)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/8/8%20-%20Dictionaries%2C%20Module%20und%20Packages.ipynb?flush_cache=true)
 - [Lecture 9 (Input and Output)](https://github.com/cbrnr/intro_python/blob/master/9/9%20-%20Ein-%20und%20Ausgabe.ipynb)
 - [Lecture 10 (Numeric Data)](https://github.com/cbrnr/python_intro/blob/master/10/10%20-%20Numerische%20Daten.ipynb)
 - [Lecture 11 (Graphics)](https://github.com/cbrnr/python_intro/blob/master/11/11%20-%20Grafiken.ipynb)

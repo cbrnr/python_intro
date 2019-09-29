@@ -1,5 +1,0 @@
-Hello!
-
-This is just a test file containing some random text.
-
-Nice!

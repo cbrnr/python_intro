@@ -11,7 +11,7 @@ This repository contains Jupyter notebooks for my lecture "Introduction to Pytho
 6. [Strings](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/06/6%20-%20Strings.ipynb?flush_cache=true)
 7. [Lists and Dictionaries](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/07/7%20-%20Listen%20und%20Dictionaries.ipynb?flush_cache=true)
 8. [Input and Output](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/08/8%20-%20Ein-%20und%20Ausgabe.ipynb)
-9. Numerical Data
+9. [Numerical Data](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/09/9%20-%20Numerische%20Daten.ipynb)
 10. Graphics
 11. PsychoPy 1
 12. PsychoPy 2

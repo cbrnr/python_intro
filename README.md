@@ -13,7 +13,7 @@ This repository contains Jupyter notebooks for my lecture "Introduction to Pytho
 8. [Input and Output](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/08/8%20-%20Ein-%20und%20Ausgabe.ipynb?flush_cache=true)
 9. [Numerical Data](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/09/9%20-%20Numerische%20Daten.ipynb?flush_cache=true)
 10. [Graphics](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/10/10%20-%20Grafiken.ipynb?flush_cache=true)
-11. PsychoPy 1
+11. [PsychoPy (1)](https://nbviewer.jupyter.org/github/cbrnr/python_intro/blob/master/11/11%20-%20PsychoPy%20(1).ipynb?flush_cache=true)
 12. PsychoPy 2
 
 Additional topics:
